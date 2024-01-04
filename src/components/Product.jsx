@@ -94,7 +94,6 @@ const Product = ({item}) => {
                 <FavoriteBorderOutlined />
             </Icon>
         </Info>
-        {/* <Desc>hdhdhhhdhhdhdhdhdhdhddh</Desc> */}
     </Container>
   )
 }
