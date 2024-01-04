@@ -130,7 +130,7 @@ const Product = () => {
         <Navbar />
         <Wrapper>
             <ImgContainer>
-                <Image src="https://media.istockphoto.com/id/1361697255/photo/african-american-woman-looking-away-and-smiling.jpg?s=1024x1024&w=is&k=20&c=Bdjyli_1pBbfLiZI73Zh-DlNnlzLPySnLlne2gcINTY="/>
+                <Image src="https://media.istockphoto.com/id/172947961/photo/sneakers-customized.jpg?s=612x612&w=0&k=20&c=EeApluyhMAl6tlu9VAdz13b5RUGyZ-xAtDSy_BJmhEs=" alt="A Picture"/>
             </ImgContainer>
             <InfoContainer>
                 <Title>African Jump Suit</Title>
